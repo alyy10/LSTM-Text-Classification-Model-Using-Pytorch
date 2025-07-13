@@ -1,4 +1,4 @@
-# **LSTM Text Classification for App Reviews**
+# **LSTM Text Classification Model Using Pytorch**
 
 <img width="1736" height="1157" alt="ProjectArchitecture" src="https://github.com/user-attachments/assets/03387367-15bf-4de6-b7a4-69de78ac30e6" />
 
@@ -15,21 +15,7 @@ In this project, you will learn how to:
 - **Understand LSTM working**.
 - **Classify app reviews** based on user feedback (ratings from 1 to 5).
 
----
 
-## **What Will You Learn?**
-
-- What is **PyTorch** and how does it differ from **TensorFlow**?
-- **Limitations of current algorithms** in natural language processing.
-- **Text analytics** and its importance in extracting insights from text data.
-- What is an **RNN** and why it is needed?
-- The **architecture** of RNN and **LSTM**.
-- The **working** of LSTM in sequence-based models.
-- The **applications** of LSTM.
-- Techniques like **tokenization** and **lemmatization**.
-- How to handle **class imbalance**.
-- **Building an LSTM model** in PyTorch.
-- **Training** and **evaluating the model** on test data.
 
 ---
 
